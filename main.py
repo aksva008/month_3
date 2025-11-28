@@ -11,4 +11,4 @@ def main(page: ft.Page):
 
     page.add(greeting_text)
 
-ft.app(target=main)global
+ft.app(target=main)
